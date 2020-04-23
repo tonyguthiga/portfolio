@@ -3,15 +3,16 @@ nav{
     top: 0;
     width: 100%;
 }
-ul{
+nav ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: black;
     position: relative;
+    text-align: center;
 }
-li a{
+nav li a{
     float: left;
     color: white;
     text-align: center;
@@ -21,4 +22,15 @@ li a{
 }
 li a:hover{
     background-color: green;
+}
+.content{
+     max-width: 960px;
+     padding: 10px;
+     margin: auto;
+     text-align: center;
+     font-size: larger;
+     background-color: rgb(245, 241, 241);
+}
+#pic{
+    border-radius: 100%;
 }
