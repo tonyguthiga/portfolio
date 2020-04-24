@@ -12,6 +12,16 @@
 #pic{
     border-radius: 100%;
 }
+.hobby{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
 .footer{
     background: #343a40;
     color: #fffafa;
