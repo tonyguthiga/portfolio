@@ -1,36 +1,12 @@
-nav{
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
-nav ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: black;
-    position: relative;
-    text-align: center;
-}
-nav li a{
-    float: left;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    padding: 5px 50px;
-    border-right: center;
-}
-li a:hover{
-    background-color: green;
-}
 .content{
-     max-width: 960px;
-     padding: 10px;
-     margin: auto;
-     text-align: center;
-     font-size: larger;
-     background-color: rgb(245, 241, 241);
+    max-width: 960px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    font-size: larger;
+    background-color: rgb(245, 241, 241);
 }
 #pic{
     border-radius: 100%;
 }
+
